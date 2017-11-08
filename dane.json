@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "name": "1",
+      "description": "aaaaaa",
+      "id": 1
+    },
+    {
+      "name": "2",
+      "description": "bbbbbbbb",
+      "id": 2
+    },
+    {
+      "name": "3",
+      "description": "ccccccccc",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pierwszy X",
+      "description": "Opis"
+    }
+  ],
+  "ys": [
+    {
+      "id": 1,
+      "xId": 1,
+      "name": "Pierwszy Y"
+    }
+  ]
+}
